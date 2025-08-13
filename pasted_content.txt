@@ -1,0 +1,183 @@
+════════════════════════════════════════════════════════════════════════
+PROMPT DEFINITIVO – SITE DE ÁDRIVAN MACHADO HENRIQUE, PSICÓLOGO E PSICANALISTA
+════════════════════════════════════════════════════════════════════════
+
+OBJETIVO GERAL
+
+Crie um site profissional, elegante e profundamente coerente com a identidade de Ádrivan Machado Henrique, psicólogo e psicanalista.
+
+Atmosfera: sóbria, refinada, sensível, acolhedora, sofisticada, sem exageros visuais.
+
+Emoções a transmitir: seriedade, presença, profundidade clínica, confiança e calor humano.
+
+👤 INFORMAÇÕES DO PROFISSIONAL (usar exatamente como abaixo)
+
+• Nome completo: Ádrivan Machado Henrique
+
+• Telefone/WhatsApp: (22) 98115-8001
+
+• E-mail: psicologoadrivanmachado@gmail.com
+
+• CNPJ: 43.926.418/0001-37 – Ádrivan Machado Henrique LTDA
+
+• Áreas de atuação: Clínica e organizacional – presencial, ao ar livre e online
+
+• Locais de atendimento: Macaé (RJ), Campos dos Goytacazes e Rio de Janeiro
+
+🌿 PALETA OFICIAL DE CORES
+
+• Verde-sálvia #78866B  → destaques, botões, CTAs
+
+• Areia quente #E8D9C1  → fundo das seções, cor base
+
+• Cinza mineral #4B4F52 → texto principal
+
+• Azul petróleo #274C5B → títulos e headers
+
+• Cobre envelhecido #B27C4C → pequenos acentos elegantes
+
+🔤 TIPOGRAFIA
+
+• Títulos: Playfair Display (peso 600-700)
+
+• Textos corridos: Lato OU Merriweather (peso 300-400)
+
+• Contraste WCAG AA; interlineagem ≥150 %.
+
+📸 ELEMENTOS VISUAIS / IMAGENS
+
+• Inserir pelo menos duas imagens autorais/curadas:
+
+  – Paisagem de trapiche OU montanhas silenciosas
+
+  – Texturas de madeira, vento, papel, caderno ou janela com luz suave
+
+  – Imagens que sugiram escuta, interioridade e presença
+
+• Formato WebP, lazy-loading; evitar bancos genéricos.
+
+• Incluir, se disponível, retrato profissional do psicólogo na seção “Sobre Mim”.
+
+🧭 ESTRUTURA COMPLETA DO SITE
+
+6.1 [PÁGINA INICIAL]
+
+• H1: “Ádrivan Machado Henrique – Psicólogo e Psicanalista”
+
+• Subtítulo (H2): “Se não há palavras, o que mais nos resta?” – Vitor Ramil
+
+• Fundo: imagem contemplativa (item 5).
+
+• Botões (verde-sálvia, animação 200 ms):
+
+  – “Plano de Saúde” → https://app.telavita.com.br/psicologia-online/adrivan-machado-henrique
+
+  – “Veja Avaliações no Google” → https://share.google/uQRvhDYJ2ps1VnVRT
+
+  – “Agende uma conversa” (WhatsApp) → wa.me/5522981158001
+
+6.2 [SOBRE MIM]
+
+Texto (copiar exatamente):
+
+Sou psicólogo e psicanalista, mestre em Educação, Ciência e Saúde pelo Instituto NUTES da Universidade Federal do Rio de Janeiro e doutorando também pela UFRJ. Tenho longa experiência clínica e institucional. Minha prática está enraizada em uma escuta ética, profunda e comprometida com a saúde e o bem-estar de meus pacientes. Acredito em processos significativos, em atravessamentos que não se dão por fórmulas prontas, mas por presença, tempo e verdade.
+
+Atuo tanto na clínica individual quanto em intervenções voltadas ao campo do trabalho, desenvolvendo propostas que articulam saúde mental, subjetividade e cultura organizacional. Trânsito entre a prática clínica, a pesquisa científica, seja em consultório, empresas, instituições públicas ou na escuta silenciosa das montanhas e do mar, onde, como horizonte ético, ofereço atendimentos ao ar livre.
+
+6.3 [CLÍNICA]
+
+Texto (copiar exatamente):
+
+Realizo atendimentos clínicos presenciais, ao ar livre e online, fundamentados na psicanálise, voltados para crianças, adolescentes e adultos.
+
+Minha trajetória inclui o atendimento clínico a crianças, adolescentes e adultos, assim como experiências em contextos institucionais diversos. Atuo como psicoterapeuta desde 2017. Entre as atribuições do psicólogo, exerço a escuta psicanalítica. A prática como psicanalista se dá por meio da livre associação de ideias e análise do inconsciente. Sendo assim, diante de seu sofrimento, posso lhe conduzir ao reconhecimento das causas de seu mal-estar, por meio do método desenvolvido por Sigmund Freud e Jacques Lacan. Dessa forma, busco criar as condições para que o paciente possa lidar e transformar as questões que o fazem sofrer.
+
+6.4 [SERVIÇOS PARA EMPRESAS]
+
+Texto (copiar exatamente):
+
+Ofereço ações integradas e personalizadas de promoção de saúde mental e bem-estar nas organizações, especialmente em setores de alta complexidade como petróleo & gás, logística, hotelaria e trabalho offshore e onshore.
+
+Serviços oferecidos:
+
+• Palestras temáticas
+
+• Rodas de conversa e oficinas vivenciais
+
+• Mentorias para lideranças
+
+• Intervenções em SIPATs
+
+• Ações estratégicas para fortalecimento do clima organizacional
+
+• Diagnóstico de clima organizacional
+
+Cada proposta inclui:
+
+• Escuta inicial das demandas com a gestão
+
+• Ação prática com a força de trabalho (oficina, roda ou palestra)
+
+• Devolutiva técnica em forma de relatório analítico para a gestão
+
+Com CNPJ ativo e emissão de nota fiscal, as contratações são realizadas diretamente por pessoa jurídica.
+
+6.5 [CONTATO]
+
+• WhatsApp: (22) 98115-8001
+
+• E-mail: psicologoadrivanmachado@gmail.com
+
+• CNPJ: 43.926.418/0001-37 – Ádrivan Machado Henrique LTDA
+
+• Atendimentos: Macaé (RJ), Serra de Macaé – Trapiche, Campos e Rio de Janeiro
+
+• Ícone/botão WhatsApp fixo no canto inferior direito (opacidade 0.7 → 1 ao hover).
+
+✨ DIRETRIZES VISUAIS E TÉCNICAS
+
+• Layout de poucas colunas; respiros amplos; leitura fluida.
+
+• Proibido carrosséis, paralaxe ou animações >50 ms.
+
+• Estrutura responsiva (mobile-first); breakpoints 576 / 992 / 1200 px.
+
+• Botões em verde-sálvia, transição suavizada (200 ms).
+
+• Rodapé: link (inativo) “Baixar Portfólio Institucional (PDF)”.
+
+• HTML5 semântico + ARIA; CSS Grid/Flexbox; JavaScript mínimo.
+
+• Foco visível para navegação por teclado; todos os links e botões com :focus destacado em verde-sálvia.
+
+• Todas as imagens com alt descritivo.
+
+• Performance: carregar em ≤3 s; lazy-loading; pré-carregar fontes.
+
+• SEO on-page:
+
+  – Title: “Psicólogo em Macaé | Ádrivan Machado Henrique – Psicanálise & Saúde Mental”
+
+  – Meta description ≤160 caracteres.
+
+  – H1 único; headings hierárquicos; schema.org Person + LocalBusiness.
+
+• Favicon 32×32 em verde-sálvia.
+
+🧠 FINALIZAÇÃO
+
+Finalize como quem entende a delicadeza e a complexidade do trabalho de um psicólogo: linguagem sóbria, consistente, emocional e refinada. O site deve ser profundamente belo, calmo e inesquecível — sem exageros, mas com excelência total.
+
+ARQUIVOS A ENTREGAR
+
+• index.html (ou estrutura multipage)
+
+• style.css (com variáveis CSS da paleta)
+
+• /img (imagens otimizadas)
+
+• README com instruções rápidas de deploy (GitHub Pages, Vercel ou similar).
+
+════════════════════════════════════════════════════════════════════════
+FIM DO PROMPT
+════════════════════════════════════════════════════════════════════════
